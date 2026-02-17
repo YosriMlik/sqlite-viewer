@@ -7,6 +7,8 @@ A modern, cross-platform SQLite database viewer built with [Wails](https://wails
 ![Go](https://img.shields.io/badge/Go-1.20+-00ADD8.svg)
 ![React](https://img.shields.io/badge/React-18+-61DAFB.svg)
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Browse Tables**: Quickly view all tables in your SQLite database

@@ -1,3 +1,28 @@
-build/bin
-node_modules
-frontend/dist
+# Build output
+build/
+dist/
+frontend/dist/
+
+# Frontend dependencies
+node_modules/
+frontend/node_modules/
+
+# Go
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
